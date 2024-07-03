@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/    
+    url: /_research/    
 
   - title: "Outreach"
-    url: /outreach/    
+    url: /_outreach/    
    
   - title: "CV"
     url: https://monicabarbery.github.io/MBarbery_CV.pdf
