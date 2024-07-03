@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on earthquake and fault mechanics, rock friction, and brittle deformation of geologic materials using laboratory experiments, microstructural analysis, mechanical models, and field work. I investigate processes occuring from the nanoscale up to the kilometer scale at timescales of microseconds to decades to better understand the physics of earthquake nucleation, propagation, cessation, and healing.
+My research focuses on fault and earthquake mechanics, rock friction, and brittle deformation using laboratory experiments, microstructural analysis, mechanical models, and field work. I investigate processes occurring from the nanoscale up to the kilometer scale over timescales of microseconds to decades to better understand the physics of earthquake nucleation, propagation, cessation, and healing.
