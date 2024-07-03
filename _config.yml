@@ -25,8 +25,8 @@ author:
   name             : "Monica Barbery"
   pronouns         : "she/her"  
   bio              : "Senior Research Associate at Brown University<br><br>My research focuses on fault friction, brittle deformation processes, and earthquake physics using laboratory experiments, microstructural analysis, micromechanical and thermomechanical modelling, and field work."
-  location         : "Providence, RI"
-  employer         : "Brown University"
+  bio              : "monica_barbery (at) brown (dot) edu<br><br>Department of Earth, Environmental, and Planetary Sciences, Brown University<br>324 Brook St<br>Providence, RI 0290"
+  employer         : #"Brown University"
   uri              : # URL
   email            : "monica_barbery (at) brown.edu" 
 
