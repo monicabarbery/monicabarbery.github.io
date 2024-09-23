@@ -5,9 +5,4 @@ permalink: /outreach/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
-{% for post in site.outreach %}
-  {% include archive-single.html %}
-{% endfor %}
+This is an item in your portfolio. It can be have images or nice text.
