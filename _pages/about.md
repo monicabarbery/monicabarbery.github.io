@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-<br><br>My research focuses on fault and earthquake mechanics, rock friction, and brittle deformation using laboratory experiments, microstructural analysis, mechanical models, and field work. I investigate processes occurring from the nanoscale up to the kilometer scale over timescales of microseconds to decades to better understand the physics of earthquake nucleation, propagation, cessation, and healing.
+<br><br>I'm a research scientist working in the Experimental Rock Deformation Lab at Brown University. I investigate crustal deformation processes with a strong focus on earthquakes and rock friction. My work explores physical processes that contribute to seismic and aseismic slip and the role of natural fault heterogenity on fault mechanics and friction. My research techniques include laboratory experiments, numerical modelling, microstructural analysis of natural and experimentally deformed samples, and field work.
