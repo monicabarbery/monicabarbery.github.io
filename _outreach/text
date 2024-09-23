@@ -39,18 +39,6 @@
         <h3>Block 2 Title</h3>
         <p>This is the text for block 2. Additional details can be added here.</p>
     </div>
-
-    <div class="block">
-        <img src="image3.jpg" alt="Description of image 3">
-        <h3>Block 3 Title</h3>
-        <p>This is the text for block 3. Share interesting facts or insights.</p>
-    </div>
-
-    <div class="block">
-        <img src="image4.jpg" alt="Description of image 4">
-        <h3>Block 4 Title</h3>
-        <p>This is the text for block 4. Make it engaging and informative.</p>
-    </div>
 </div>
 
 </body>
