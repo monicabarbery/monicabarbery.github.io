@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text and Images</title>
+    <style>
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        .block {
+            width: 45%;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            text-align: center;
+        }
+        .block img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="block">
+        <img src="image1.jpg" alt="Description of image 1">
+        <h3>Block 1 Title</h3>
+        <p>This is the text for block 1. It can describe the image or provide information.</p>
+    </div>
+
+    <div class="block">
+        <img src="image2.jpg" alt="Description of image 2">
+        <h3>Block 2 Title</h3>
+        <p>This is the text for block 2. Additional details can be added here.</p>
+    </div>
+
+    <div class="block">
+        <img src="image3.jpg" alt="Description of image 3">
+        <h3>Block 3 Title</h3>
+        <p>This is the text for block 3. Share interesting facts or insights.</p>
+    </div>
+
+    <div class="block">
+        <img src="image4.jpg" alt="Description of image 4">
+        <h3>Block 4 Title</h3>
+        <p>This is the text for block 4. Make it engaging and informative.</p>
+    </div>
+</div>
+
+</body>
+</html>
