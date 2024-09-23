@@ -5,9 +5,4 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
-{% for post in site.research %}
-  {% include archive-single.html %}
-{% endfor %}
+This is an item in your portfolio. It can be have images or nice text.
