@@ -14,7 +14,7 @@ This is an item in your portfolio. It can be have images or nice text.
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="REU_2024_cohort.JPG" alt="Description of image 2" style="margin-right: 15px; width: 100px;">
+    <img src="REU_2024_cohort.JPG" alt="2024 DEEPS REU cohort" style="margin-right: 15px; width: 100px;">
     <div>
         <p>This is the second paragraph. Here we discuss more details, adding depth to the content alongside the accompanying image.</p>
     </div>
