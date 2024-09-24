@@ -26,10 +26,3 @@ This is an item in your portfolio. It can be have images or nice text.
         <p>This is the third paragraph. Additional information is presented here, elaborating on the topic introduced earlier.</p>
     </div>
 </div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="image4.jpg" alt="Description of image 4" style="margin-right: 15px; width: 100px;">
-    <div>
-        <p>This is the fourth paragraph. Finally, we wrap up the discussion, summarizing key points and conclusions.</p>
-    </div>
-</div>
