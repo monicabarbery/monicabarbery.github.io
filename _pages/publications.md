@@ -22,5 +22,6 @@ author_profile: true
 <div>
   <div>
         <p>Barbery, M. R., Hirth, G., & Tullis, T. E. (in prep). Synchronized asperities nucleate earthquakes on laboratory faults. For submission to Geology.</p>
+        url: https://monicabarbery.github.io/Barbery_Hirth_Tullis_inprep.pdf
     </div>
 </div>
