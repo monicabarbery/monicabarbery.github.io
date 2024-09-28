@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-This is an item in your portfolio. It can be have images or nice text.
 <div>
       <div>
         <p>Barbery, M. R., Chester, F. M., & Chester, J. S. (2023). Investigating dynamic weakening in laboratory faults using multi-scale flash heating coupled with mm-scale contact evolution. Journal of Geophysical Research: Solid Earth, 128, e2023JB027110.</p>
