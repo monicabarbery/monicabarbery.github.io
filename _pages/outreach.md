@@ -5,7 +5,6 @@ permalink: /outreach/
 author_profile: true
 ---
 
-This is an item in your portfolio. It can be have images or nice text.
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
     <img src='/images/REU_2024_cohort_best.png' style="margin-right: 15px; width: 500px;">
     <div>
