@@ -25,7 +25,7 @@ Fault slip is a frictional phenomenon where sliding is regulated by frictional p
                  <img src='/images/figure_2.png' style="margin-right: 15px; width: 400px;">
                  </div>
          <p>Barbery, M. R., Chester, F. M., & Chester, J. S. (2023). https://doi.org/10.1029/2023JB027110</p>
-         <p>Barbery, M. R., Chester, F. M., & Chester, J. S. (2021). https://doi.org/10.1029/2020JB021353</p>0
+         <p>Barbery, M. R., Chester, F. M., & Chester, J. S. (2021). https://doi.org/10.1029/2020JB021353</p>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
