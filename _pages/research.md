@@ -10,7 +10,7 @@ Fault slip is a frictional phenomenon where sliding is regulated by frictional p
 Earthquake Nucleation and Propagation: Thermal Pressurization
 ------
 <div style="display: flex; align-items: flex-start; margin: 10px;">
-<img src='/images/figure_1.png' style="width: 300px; height: auto; margin-right: 10px;">
+<img src='/images/figure_1.png' style="width: 400px; height: auto; margin-right: 10px;">
 <div>
 Pore fluids are present along most faults in nature. At sliding rates above 1 mm/s, frictional heat causes thermal expansion of pore fluids which reduces the normal stress on the fault in a process called thermal pore fluid pressurization, or thermal pressurization. As friction is the ratio of shear stress to normal stress, this ultimately weakens the fault and is considered an important mechanism during earthquake nucleation and propagation. However, thermal pressurization may be inhibited when fault roughness is high, as new pore space opens with slip. If enough new pore spaces are opened, pore volume increases due to thermal pressurization can be fully accommodated and the fault can be strengthened in a process called dilatancy hardening. Thermal pressurization may also be inhibited when gouge, a natural wear product of fault slip, is present. A clearer understanding on when and how thermal pressurization may contribute to earthquakes in nature will ultimately inform physics-based dynamic rupture simulations.
 
@@ -21,7 +21,7 @@ To explore the competition between thermal pressurization and dilatancy hardenin
 Earthquake Nucleation and Propagation: Flash Heating of Asperities
 ------
 <div style="display: flex; align-items: flex-start; margin: 10px;">
-<img src='/images/figure_2.png' style="width: 300px; height: auto; margin-right: 10px;">
+<img src='/images/figure_2.png' style="width: 400px; height: auto; margin-right: 10px;">
 <div>
 Faults are naturally rough, and contact occurs at microscopic asperities resulting in a true contact area significantly smaller than the apparent contact area. At elevated sliding velocities, the rate of local heat generation is greater than the rate of heat transport by diffusion, which thermally weakens asperities reducing the fault coefficient of friction. Constitutive equations exist for flash heating, though laboratory data deviates from model predictions at earthquake accelerations.
 
