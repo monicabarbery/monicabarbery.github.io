@@ -13,6 +13,7 @@ DEEPS REU
 <p>For more information on our REU program, please visit: [DEEPS Leadership Alliance Reu](https://deeps.brown.edu/leadership-alliance-reu)</p>
 </div>
 </div>
+
 DEEPS CORES
 ------ 
 <p>For many years, DEEPS has partnered with the Providence Public School District (PPSD) to develop multi-lesson Earth Science modules for local elementary schools and high schools. In 2021, this partnership led to the development of DEEPS CORES (Career Opportunities and Research in Earth Sciences). This program continues focusing on the development of Earth Science modules for high school classrooms in addition to facilitating access to summer programs at Brown and research opportunities in DEEPS for PPSD students. Since 2022, I have participated in the development of curriculum for DEEPS CORES and have helped teach lessons at Hope High.</p>
