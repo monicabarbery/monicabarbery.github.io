@@ -11,7 +11,7 @@ Since 2019, the Department of Earth, Environmental, and Planetary Sciences (DEEP
 <img src='/images/REU_2024_cohort_best.png' style="width: 400px; height: auto; margin-right: 10px;">
 </p>
 
-For more information on our REU program, please visit: [DEEPS Leadership Alliance REU](https://deeps.brown.edu/leadership-alliance-reu)
+For more information on our REU program, please visit: [DEEPS REU](https://deeps.brown.edu/leadership-alliance-reu)
 
 
 DEEPS CORES
