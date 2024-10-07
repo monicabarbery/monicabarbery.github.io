@@ -33,7 +33,7 @@ The Role of Heterogeneity on Earthquake Nucleation
 ------
 <p>Faults are structurally complex in nature and heterogeneous from the microscopic scale up to the kilometer scale. Two major contributors to fault heterogeneity are fault roughness and on-fault mineralogical variations. There is general consensus that natural fault roughness is mechanically important, though debate remains on whether roughness promotes or suppresses frictional instabilities that can nucleate fast and slow earthquakes. In recent work, collaborators and I conducted experiments on creeping, bimaterial laboratory faults using different roughness geometries. A novel sample geometry enabled an investigation into the effects of roughness and mineralogy on frictional stability and earthquake nucleation by synchronizing asperities, which simultaneously simplified and amplified the mechanical effects of roughness. This work shows that colliding asperities trigger dramatic transitions from stable to unstable sliding along creeping faults and provides a new framework for the nucleation of seismic or aseismic slip events in nature (supported by EAR 2052897, PI Barbery)</p>
 <p align="center">
-<img src='/images/figure_3.png' style="width: 450px; height: auto; margin-right: 10px; ">
+<img src='/images/figure_3.png' style="width: 700px; height: auto; margin-right: 10px; ">
 </p>
 
 The Role of Fabric on Fault Friction
