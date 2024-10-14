@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Fault slip is a frictional phenomenon where sliding is regulated by frictional properties of the surfaces and slip is resisted by frictional forces between the juxtaposing fault surfaces. Understanding the frictional behavior of rocks, and describing it in physics-based constitutive equations, is necessary to constrain the mechanics of seismic and aseismic fault slip and to advance dynamic rupture models that inform seismic hazard and risk assessments. Direct testing of constitutive relations, however, remains challenging as conditions in the Earth’s crust are difficult to replicate in the lab. My work explores physical processes that contribute to slow and fast earthquakes, fault restrengthening or healing after earthquakes, and the role of heterogeneity on earthquake processes.
+Fault slip is a frictional phenomenon where sliding is regulated by frictional properties of the surfaces and slip is resisted by frictional forces between the juxtaposing fault surfaces. Understanding the frictional behavior of rocks, and describing it in physics-based constitutive equations, is necessary to constrain the mechanics of seismic and aseismic fault slip and to advance dynamic rupture models that inform seismic hazard and risk assessments. Direct testing of constitutive relations, however, remains challenging as conditions in the Earth’s crust are difficult to replicate in the lab. My work explores physical processes that contribute to slow and fast earthquakes, fault restrengthening or healing after earthquakes, and the role of heterogeneity, including natural fault roughness, mineralogical variations, and permeabiity variations, on earthquake processes.
 
 Earthquake Physics: Thermal Pressurization
 ------
