@@ -7,3 +7,5 @@ redirect_from:
   - /about.html
 ---
 <br><br>I'm a research scientist working in the Experimental Rock Deformation Lab at Brown University. I investigate crustal deformation processes with a strong focus on earthquakes and rock friction to characterize rheological and frictional properties of fault zone materials and advance our understanding of fault deformation processes and the earthquake cycle in continental and subducting fault zones. By combining rock deformation experiments with microstructural analysis and structural petrology, numerical modeling, and field work, I explore earthquakes and faulting processes that occur from nanoseconds to decades and from the nanometer to the kilometer scale.
+
+In January of 2026, I will begin as a faculty member in the Department of Geology and Geophysics at the University of Utah. I am actively seeking a graduate student to begin in the fall of 2026.
