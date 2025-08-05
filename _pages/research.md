@@ -36,6 +36,9 @@ The Role of Heterogeneity on Earthquake Nucleation
 <img src='/images/figure_3.png' style="width: 700px; height: auto; margin-right: 10px; ">
 </p>
 
+[Barbery, M. R., Hirth, G., & Tullis, T.E. (2025)](https://doi.org/10.1130/G52853.1)
+
+
 The Role of Fabric on Fault Friction
 ------
 <p>Earthquake ruptures can sometimes propagate into nominally creeping fault rocks. The San Andreas fault system in northern CA is dominated by creeping faults with abundant clay minerals, but the extent to which clays like serpentinite can host earthquakes is unclear. In this work, collaborators and I are investigating the frictional properties of foliated and altered fault gouges from the Bartlett Springs Fault from the Northern San Andreas fault. We want to understand if and how earthquake ruptures may propagate through these fault rocks. Experiments have been conducted at both Utah State University and Brown University on samples with no initial fabric, laboratory generated fabrics, and natural fabrics. (supported by SCEC 24119, PI Barbery)</p>
