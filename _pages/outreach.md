@@ -6,7 +6,7 @@ author_profile: true
 ---
 DEEPS REU
 ------ 
-From 2019-2024, the Department of Earth, Environmental, and Planetary Sciences (DEEPS) provided 9-week long Research Experience for Undergraduates summer internships supported by the National Science Foundation and in partnership with the Leadership Alliance at Brown University. This program provided hand-on research experience and mentorship for undergraduate students and particularly encourages students from historically underrepresented groups to apply. During the summer of 2024, I mentored an undergraduate student working in the Brown Rock Deformation Lab and also served as a discussion leader and early-career mentor to the full cohort of 9 undergraduate researchers working in DEEPS.
+From 2019-2024, the Department of Earth, Environmental, and Planetary Sciences (DEEPS) at Brown University provided 9-week long Research Experience for Undergraduates summer internships supported by the National Science Foundation and in partnership with The Leadership Alliance. This program provided hand-on research experience and mentorship for undergraduate students and particularly encouraged students from historically underrepresented groups to apply. During the summer of 2024, I mentored an undergraduate researcher working in the Brown Rock Deformation Lab and also served as a discussion leader and early-career mentor to the full cohort of 9 undergraduate researchers working in DEEPS.
 <p align="center">
 <img src='/images/REU_2024_cohort_best.png' style="width: 600px; height: auto; margin-right: 10px;">
 </p>
