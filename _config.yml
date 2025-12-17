@@ -24,10 +24,10 @@ author:
   avatar           : "http://monicabarbery.github.io/headshot.jpg"
   name             : "Monica Barbery"
   pronouns         : "she/her"  
-  bio              : "<b>Senior Research Associate</b><br>Brown University<br><b>Assistant Professor (Jan 2026)</b><br>University of Utah<br><br><b>Contact:</b><br>monica.barbery@utah.edu"
-  employer         : #"Brown University"
+  bio              : "Assistant Professor"
+  employer         : "University of Utah"
   uri              : # URL
-  email            : # "monica_barbery (at) utah.edu" 
+  email            : "monica.barbery@utah.edu" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=E4U-BuMAAAAJ&hl=en&oi=ao"
