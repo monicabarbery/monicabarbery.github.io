@@ -24,9 +24,9 @@ author:
   avatar           : "http://monicabarbery.github.io/headshot.jpg"
   name             : "Monica Barbery"
   pronouns         : "she/her"  
-  bio              : "Assistant Professor"
+  bio              : "<b>Assistant Professor</b>"
   employer         : "University of Utah"
-  uri              : # URL
+  uri              : "https://earth.utah.edu/"
   email            : "monica.barbery@utah.edu" 
 
   # Academic websites
